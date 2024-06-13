@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Group_1",
+        "xmin": 122,
+        "ymin": 759,
+        "xmax": 699,
+        "ymax": 1159
+    },
+    {
+        "name": "Group_2",
+        "xmin": 763,
+        "ymin": 673,
+        "xmax": 1604,
+        "ymax": 1100
+    },
+    {
+        "name": "Group_3",
+        "xmin": 370,
+        "ymin": 496,
+        "xmax": 858,
+        "ymax": 800
+    },
+    {
+        "name": "Group_4",
+        "xmin": 936,
+        "ymin": 439,
+        "xmax": 1539,
+        "ymax": 729
+    },
+    {
+        "name": "Group_5",
+        "xmin": 739,
+        "ymin": 235,
+        "xmax": 1108,
+        "ymax": 540
+    },
+    {
+        "name": "Group_6",
+        "xmin": 1188,
+        "ymin": 206,
+        "xmax": 1528,
+        "ymax": 527
+    }
+]
